@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Exercicio3_NavigationDrawer" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/amarelo</item>
+        <item name="colorPrimaryVariant">@color/amarelo_variante</item>
+        <item name="android:statusBarColor">@color/amarelo</item>
+    </style>
+    <style name="Theme.Exercicio3_NavigationDrawer" parent="Base.Theme.Exercicio3_NavigationDrawer" />
+</resources>
