@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_mercadolivre"
+            android:icon="@drawable/iccart"
+            android:title="Mercado Livre" />
+
+        <item
+            android:id="@+id/nav_coupon"
+            android:title="Cupons"
+            android:icon="@drawable/iccoupon" />
+
+        <item
+            android:id="@+id/nav_filmes"
+            android:title="Filmes"
+            android:icon="@drawable/icfilmes" />
+
+        <item
+            android:id="@+id/nav_computadores"
+            android:title="Computadores"
+            android:icon="@drawable/iccomputador" />
+
+        <item
+            android:id="@+id/nav_carteira"
+            android:title="Métodos de Pagamento"
+            android:icon="@drawable/iccarteira" />
+
+        <item
+            android:id="@+id/nav_alimentos"
+            android:title="Alimentos"
+            android:icon="@drawable/icalimentos" />
+    </group>
+</menu>
