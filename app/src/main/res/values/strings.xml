@@ -2,4 +2,19 @@
     <string name="app_name">Mercado Livre</string> <!--Era Exercicio3_NavigationDrawer dentro-->
     <string name="nav_open">Abrindo menu</string>
     <string name="nav_close">Fechando menu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cart">Cart</string>
+    <string name="filmes">Filmes</string>
+    <string name="coupon">Cupons</string>
+    <string name="home">Home</string>
+    <string name="menu">Menu</string>
+    <string name="mercado">Mercado Livre</string>
+    <string name="profile">Profile</string>
+    <string name="computadores">Computadores</string>
+    <string name="pagamentos">Métodos de Pagamento</string>
+    <string name="alimentos">Alimentos</string>
+    <string name="meuNome">Andriy</string>
+
+
 </resources>

@@ -15,4 +15,6 @@
         android:layout_height="match_parent"
         android:src="@drawable/logomercadolivre"
         android:layout_gravity="center" />
+
+
 </LinearLayout>
